@@ -8,7 +8,7 @@ env:
    LOCATION: eastus
    TEMPLATE-FILE: infra/webapp.bicep
    SUBSCRIPTION-ID: 6f9d73a3-4075-483b-bea7-4993a3ab1633
-   WEBAPP-NAME: devops-webapp-eastus-311423808
+   WEBAPP-NAME: devops-webapp-eastus-1009420589
 
 
 jobs:
